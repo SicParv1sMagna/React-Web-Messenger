@@ -10,11 +10,12 @@
 .joinOuterContainer{
     width: 400px;
     height: 250px;
-    position: relative;
-    top: 50%;
-    left: 42%;
-    margin: -125px 0 0 -125px;
+    display: block;
     text-align: center;
+    margin-top: 125px;
+    margin-bottom: 125px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .joinInnerContainer{
